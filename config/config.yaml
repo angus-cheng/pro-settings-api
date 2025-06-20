@@ -1,0 +1,4 @@
+db:
+  conn: "postgres://user:admin@localhost:5432/prosettings"
+scraper:
+  rate_limit: 2 # requests/sec
